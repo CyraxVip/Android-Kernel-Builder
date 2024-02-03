@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
       "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "repo": "https://github.com/Ronald826/xiaomi_kernel_selene.git",
+      "branch": "4.14-baxter_EXPERIMENTAL",
+      "device": "selene"
     },
     "withKernelSU": true,
     "toolchains": [
